@@ -14,7 +14,7 @@ build, explore, and do much more. Inspired by Minecraft, pushing beyond.
 
 Originally forked from MineClone (by davedevils) as MineClone 2, then renamed
 and heavily improved. Developed by many people, see
-[`CREDITS.md`](CREDITS.md) for a complete list.
+[`CREDITS.md`](docs/CREDITS.md) for a complete list.
 
 
 ## About
@@ -27,7 +27,7 @@ of the game—such as mining, farming, and building machines. Alternatively, you
 can opt for **creative mode**, where you can do anything you can imagine with a
 snap of your fingers.
 
-See [`GETTING_STARTED.md`](GETTING_STARTED.md) for a quick guide on how to start
+See [`GETTING_STARTED.md`](docs/GETTING_STARTED.md) for a quick guide on how to start
 playing VoxeLibre.
 
 ### Gameplay summary
@@ -99,15 +99,15 @@ Git branch) to get the newest content and help us catch bugs before release.
   and themed [Projects](/VoxeLibre/VoxeLibre/projects) to make the game better
 * Ensure proper localization support, enabling translations in as many languages
   as possible
-* [Maintain a friendly and inclusive community of players and developers](CODE_OF_CONDUCT.md)
+* [Maintain a friendly and inclusive community of players and developers](docs/CODE_OF_CONDUCT.md)
 
 
 ## See also
 
-* [`GETTING_STARTED.md`](GETTING_STARTED.md): Quick guide on how to start
+* [`GETTING_STARTED.md`](docs/GETTING_STARTED.md): Quick guide on how to start
   playing
-* [`CONTRIBUTING.md`](CONTRIBUTING.md): Information for those who want to contribute
-* [`API.md`](API.md): For people who want to mod VoxeLibre
+* [`CONTRIBUTING.md`](docs/CONTRIBUTING.md): Information for those who want to contribute
+* [`API.md`](docs/API.md): For people who want to mod VoxeLibre
 * [`LICENSE.txt`](LICENSE.txt): Full text of the GNU GPLv3 license
-* [`LEGAL.md`](LEGAL.md): Legal information
-* [`CREDITS.md`](CREDITS.md): List of all developers and contributors
+* [`LEGAL.md`](docs/LEGAL.md): Legal information
+* [`CREDITS.md`](docs/CREDITS.md): List of all developers and contributors
